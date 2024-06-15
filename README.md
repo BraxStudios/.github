@@ -1,2 +1,3 @@
-# .github
-Brax Studios
+# Brax Studios
+
+Welcome to Brax Studios!
